@@ -1,0 +1,3 @@
+# Giữ nguyên byte (BOM UTF-8 cho PowerShell 5.1, CRLF cho .cmd) khi tải qua raw.githubusercontent.com
+*.ps1 -text
+*.cmd -text

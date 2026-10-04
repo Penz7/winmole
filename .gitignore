@@ -1,0 +1,5 @@
+# Sinh ra khi chạy
+lib/
+logs/
+config/
+*.tmp
